@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amulya Kumar....
-- Frontend Developer
+- Frontend Developer from India
 
 <!---
 Amulyas369/Amulyas369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
